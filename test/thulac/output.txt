@@ -1,0 +1,1 @@
+THULAC （ THU Lexical Analyzer for Chinese ） 由 清华大学 自然 语言 处理 与 社会 人文 计算 实验室 研制 推出 的 一 套 中文 词法 分析 工具 包 ， 具有 中文 分词 和 词性 标注 功能
