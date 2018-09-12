@@ -1,3 +1,10 @@
+# Mine
+cbow_model.bin
+cbow_model.vec
+skip_gram_model.bin
+skip_gram_model.vec
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
